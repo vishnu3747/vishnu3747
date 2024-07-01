@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **veritech web developer**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **REACTJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnu3747](https://github.com/vishnu3747)
 
